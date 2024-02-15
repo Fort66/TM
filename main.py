@@ -23,4 +23,6 @@ mainForm.dateEditOut.dateChanged.connect(SetDateOut)
 dialogFormTask.ButtonCancel.clicked.connect(dialogFormTaskClose)
 dialogFormFinance.ButtonCancel.clicked.connect(dialogFormFinanceClose)
 
+#select из Finance
+
 app.exec()
