@@ -25,5 +25,6 @@ dialogFormFinance.ButtonCancel.clicked.connect(dialogFormFinanceClose)
 
 
 ##select из task
+#select из Finance
 
 app.exec()
